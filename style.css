@@ -40,7 +40,7 @@ body {
 /*--- Landing Page --*/
 
 .home-inner {
-  background-image: url(img/road.jp2);
+  background-image: url(img/road.webp);
 }
 .caption {
   width: 100%;
@@ -73,7 +73,7 @@ body {
 /*--- Air Section --*/
 
 .airbackground {
-  background: url(img/airplane.jp2) no-repeat center fixed;
+  background: url(img/airplane.webp) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -94,7 +94,7 @@ body {
 /*--- Ocean Section --*/
 
 .oceanbackground {
-  background: url(img/ocean.jp2) no-repeat center fixed;
+  background: url(img/ocean.webp) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -115,7 +115,7 @@ body {
 /*--- Trucking Section --*/
 
 .truckbackground {
-  background: url(img/truck.jp2) no-repeat center fixed;
+  background: url(img/truck.webp) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -136,7 +136,7 @@ body {
 /*--- Warehousing Section --*/
 
 .warehousebackground {
-  background: url(img/warehouse.jp2) no-repeat center fixed;
+  background: url(img/warehouse.webp) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -157,7 +157,7 @@ body {
 /*--- Documentation Section --*/
 
 .documentbackground {
-  background: url(img/document.jp2) no-repeat center fixed;
+  background: url(img/document.webp) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -178,7 +178,7 @@ body {
 /*--- Brokerage Section --*/
 
 .brokerbackground {
-  background: url(img/broker.jp2) no-repeat center fixed;
+  background: url(img/broker.webp) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -239,7 +239,7 @@ hr.socket {
 /*--- About Section --*/
 
 .aboutbackground {
-  background: url(img/about.jp2) no-repeat center fixed;
+  background: url(img/about.webp) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
