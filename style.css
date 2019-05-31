@@ -239,7 +239,7 @@ hr.socket {
 /*--- About Section --*/
 
 .aboutbackground {
-  background: url(img/about.webp) no-repeat center fixed;
+  background: url(img/about.jpg) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
