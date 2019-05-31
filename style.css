@@ -73,7 +73,7 @@ body {
 /*--- Air Section --*/
 
 .airbackground {
-  background: url(img/airplane.webp) no-repeat center fixed;
+  background: url(img/airplane.jpg) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -94,7 +94,7 @@ body {
 /*--- Ocean Section --*/
 
 .oceanbackground {
-  background: url(img/ocean.webp) no-repeat center fixed;
+  background: url(img/ocean.jpg) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -115,7 +115,7 @@ body {
 /*--- Trucking Section --*/
 
 .truckbackground {
-  background: url(img/truck.webp) no-repeat center fixed;
+  background: url(img/truck.jpg) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -136,7 +136,7 @@ body {
 /*--- Warehousing Section --*/
 
 .warehousebackground {
-  background: url(img/warehouse.webp) no-repeat center fixed;
+  background: url(img/warehouse.jpg) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -157,7 +157,7 @@ body {
 /*--- Documentation Section --*/
 
 .documentbackground {
-  background: url(img/document.webp) no-repeat center fixed;
+  background: url(img/document.jpg) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -178,7 +178,7 @@ body {
 /*--- Brokerage Section --*/
 
 .brokerbackground {
-  background: url(img/broker.webp) no-repeat center fixed;
+  background: url(img/broker.jpg) no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
