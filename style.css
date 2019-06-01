@@ -41,13 +41,16 @@ body {
 
 .home-inner {
   background-image: url(img/road.jpg);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
+  
 }
 .caption {
   width: 100%;
@@ -81,13 +84,15 @@ body {
 
 .airbackground {
   background: url(img/airplane.jpg) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
 }
 .airlight {
   background-color: rgba(0, 0, 0, 0.25);
@@ -105,13 +110,15 @@ body {
 
 .oceanbackground {
   background: url(img/ocean.jpg) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
 }
 .oceanlight {
   background-color: rgba(0, 0, 0, 0.25);
@@ -129,13 +136,15 @@ body {
 
 .truckbackground {
   background: url(img/truck.jpg) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
 }
 .trucklight {
   background-color: rgba(0, 0, 0, 0.40);
@@ -153,13 +162,15 @@ body {
 
 .warehousebackground {
   background: url(img/warehouse.jpg) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
 }
 .warelight {
   background-color: rgba(0, 0, 0, 0.70);
@@ -177,13 +188,15 @@ body {
 
 .documentbackground {
   background: url(img/document.jpg) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
 }
 .doculight {
   background-color: rgba(0, 0, 0, 0.25);
@@ -201,13 +214,15 @@ body {
 
 .brokerbackground {
   background: url(img/broker.jpg) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
 }
 .brokelight {
   background-color: rgba(0, 0, 0, 0.50);
@@ -265,13 +280,15 @@ hr.socket {
 
 .aboutbackground {
   background: url(img/about.jpg) no-repeat center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  -webkit-transform: translate3d(0,0,0);
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
-  height: 100%;
-  overflow: hidden;
+  -webkit-transform: translate3d(0,0,0);
 }
 .aboutlight {
   background-color: rgba(0, 0, 0, 0.10);
