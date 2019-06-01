@@ -40,7 +40,7 @@ body {
 /*--- Landing Page --*/
 
 .home-inner {
-  background-image: url(img/road.jpg);
+  background-image: url(img/road.jpg)!important;
   -webkit-background-size: 100%; 
   -moz-background-size: 100%; 
   -o-background-size: 100%; 
@@ -90,7 +90,7 @@ body {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(img/airplane.jpg) center center;
+  background: url(img/airplane.jpg) center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -119,7 +119,7 @@ body {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(img/ocean.jpg) center center;
+  background: url(img/ocean.jpg) center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -148,7 +148,7 @@ body {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(img/truck.jpg) center center;
+  background: url(img/truck.jpg) center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -177,7 +177,7 @@ body {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(img/warehouse.jpg) center center;
+  background: url(img/warehouse.jpg) center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -206,7 +206,7 @@ body {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(img/document.jpg) center center;
+  background: url(img/document.jpg) center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -235,7 +235,7 @@ body {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(img/broker.jpg) center center;
+  background: url(img/broker.jpg) center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -304,7 +304,7 @@ hr.socket {
   left:0;
   right:0;
   z-index:-1; /* needed to keep in the background */
-  background: url(img/about.jpg) center center;
+  background: url(img/about.jpg) center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
