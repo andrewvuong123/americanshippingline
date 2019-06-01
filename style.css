@@ -40,7 +40,7 @@ body {
 /*--- Landing Page --*/
 
 .home-inner {
-  background-image: url(img/road.jpg)!important;
+  background-image: url(img/road.jpg);
   -webkit-background-size: 100%; 
   -moz-background-size: 100%; 
   -o-background-size: 100%; 
@@ -83,19 +83,17 @@ body {
 /*--- Air Section --*/
 
 .airbackground:after {
-  content:"";
-  position:fixed; /* stretch a fixed position to the whole screen */
-  top:0;
-  height:100vh; /* fix for mobile browser address bar appearing disappearing */
-  left:0;
-  right:0;
-  z-index:-1; /* needed to keep in the background */
-  background: url(img/airplane.jpg) center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background: url(img/airplane.jpg) no-repeat center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
   -webkit-transform: translate3d(0,0,0);
+  background-attachment: scroll;
 }
 .airlight {
   background-color: rgba(0, 0, 0, 0.25);
@@ -111,20 +109,18 @@ body {
 
 /*--- Ocean Section --*/
 
-.oceanbackground:after {
-  content:"";
-  position:fixed; /* stretch a fixed position to the whole screen */
-  top:0;
-  height:100vh; /* fix for mobile browser address bar appearing disappearing */
-  left:0;
-  right:0;
-  z-index:-1; /* needed to keep in the background */
-  background: url(img/ocean.jpg) center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+.oceanbackground {
+  background: url(img/ocean.jpg) no-repeat center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
   -webkit-transform: translate3d(0,0,0);
+  background-attachment: scroll;
 }
 .oceanlight {
   background-color: rgba(0, 0, 0, 0.25);
@@ -140,20 +136,18 @@ body {
 
 /*--- Trucking Section --*/
 
-.truckbackground:after {
-  content:"";
-  position:fixed; /* stretch a fixed position to the whole screen */
-  top:0;
-  height:100vh; /* fix for mobile browser address bar appearing disappearing */
-  left:0;
-  right:0;
-  z-index:-1; /* needed to keep in the background */
-  background: url(img/truck.jpg) center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+.truckbackground {
+  background: url(img/truck.jpg) no-repeat center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
   -webkit-transform: translate3d(0,0,0);
+  background-attachment: scroll;
 }
 .trucklight {
   background-color: rgba(0, 0, 0, 0.40);
@@ -169,20 +163,18 @@ body {
 
 /*--- Warehousing Section --*/
 
-.warehousebackground:after {
-  content:"";
-  position:fixed; /* stretch a fixed position to the whole screen */
-  top:0;
-  height:100vh; /* fix for mobile browser address bar appearing disappearing */
-  left:0;
-  right:0;
-  z-index:-1; /* needed to keep in the background */
-  background: url(img/warehouse.jpg) center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+.warehousebackground {
+  background: url(img/warehouse.jpg) no-repeat center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
   -webkit-transform: translate3d(0,0,0);
+  background-attachment: scroll;
 }
 .warelight {
   background-color: rgba(0, 0, 0, 0.70);
@@ -198,20 +190,18 @@ body {
 
 /*--- Documentation Section --*/
 
-.documentbackground:after {
-  content:"";
-  position:fixed; /* stretch a fixed position to the whole screen */
-  top:0;
-  height:100vh; /* fix for mobile browser address bar appearing disappearing */
-  left:0;
-  right:0;
-  z-index:-1; /* needed to keep in the background */
-  background: url(img/document.jpg) center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+.documentbackground {
+  background: url(img/document.jpg) no-repeat center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
   -webkit-transform: translate3d(0,0,0);
+  background-attachment: scroll;
 }
 .doculight {
   background-color: rgba(0, 0, 0, 0.25);
@@ -227,20 +217,18 @@ body {
 
 /*--- Brokerage Section --*/
 
-.brokerbackground:after {
-  content:"";
-  position:fixed; /* stretch a fixed position to the whole screen */
-  top:0;
-  height:100vh; /* fix for mobile browser address bar appearing disappearing */
-  left:0;
-  right:0;
-  z-index:-1; /* needed to keep in the background */
-  background: url(img/broker.jpg) center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+.brokerbackground {
+  background: url(img/broker.jpg) no-repeat center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
   -webkit-transform: translate3d(0,0,0);
+  background-attachment: scroll;
 }
 .brokelight {
   background-color: rgba(0, 0, 0, 0.50);
@@ -296,20 +284,18 @@ hr.socket {
 
 /*--- About Section --*/
 
-.aboutbackground:after {
-  content:"";
-  position:fixed; /* stretch a fixed position to the whole screen */
-  top:0;
-  height:100vh; /* fix for mobile browser address bar appearing disappearing */
-  left:0;
-  right:0;
-  z-index:-1; /* needed to keep in the background */
-  background: url(img/about.jpg) center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+.aboutbackground {
+  background: url(img/about.jpg) no-repeat center fixed;
+  -webkit-background-size: 100%; 
+  -moz-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+  -webkit-background-size: cover; 
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
   background-size: cover;
   -webkit-transform: translate3d(0,0,0);
+  background-attachment: scroll;
 }
 .aboutlight {
   background-color: rgba(0, 0, 0, 0.10);
