@@ -150,7 +150,7 @@ body {
   background-attachment: scroll;
 }
 .trucklight {
-  background-color: rgba(0, 0, 0, 0.25);
+  background-color: rgba(0, 0, 0, 0.35);
   color: white;
   padding: 7rem 2rem;
 }
@@ -177,7 +177,7 @@ body {
   background-attachment: scroll;
 }
 .warelight {
-  background-color: rgba(0, 0, 0, 0.50);
+  background-color: rgba(0, 0, 0, 0.55);
   color: white;
   padding: 7rem 2rem;
 }
@@ -231,7 +231,7 @@ body {
   background-attachment: scroll;
 }
 .brokelight {
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(0, 0, 0, 0.25);
   color: white;
   padding: 7rem 2rem;
 }
@@ -300,7 +300,7 @@ hr.socket {
 .aboutlight {
   background-color: rgba(0, 0, 0, 0.10);
   color: white;
-  padding: 2rem 2rem;
+  padding: 1rem 2rem;
 }
 .aboutbackground h3 {
   margin-bottom: 2rem;
